@@ -58,6 +58,7 @@ public class UsersAdapter extends RecyclerView.Adapter<UsersAdapter.ViewHolder> 
 
     @Override
     public int getItemCount() {
+
         return list.size();
     }
 
